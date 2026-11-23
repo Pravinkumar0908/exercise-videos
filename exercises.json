@@ -1,0 +1,2536 @@
+[
+ {
+  "name": "3/4 Sit-Up",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "body weight",
+  "steps": [
+   "Lie flat on your back with your knees bent and feet flat on the ground.",
+   "Place your hands behind your head with your elbows pointing outwards.",
+   "Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45-degree angle.",
+   "Pause for a moment at the top, then slowly lower your upper body back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "3-4-sit-up.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/3-4-sit-up.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0001-2gPfomN.gif"
+ },
+ {
+  "name": "Assisted Motion Russian Twist",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "medicine ball",
+  "steps": [
+   "Sit on the ground with your knees bent and feet flat on the floor.",
+   "Hold the medicine ball with both hands in front of your chest.",
+   "Lean back slightly, engaging your abs and keeping your back straight.",
+   "Slowly twist your torso to the right, bringing the medicine ball towards the right side of your body.",
+   "Pause for a moment, then twist your torso to the left, bringing the medicine ball towards the left side of your body.",
+   "Continue alternating sides for the desired number of repetitions."
+  ],
+  "fileName": "assisted-motion-russian-twist.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/assisted-motion-russian-twist.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0014-r7cT9YD.gif"
+ },
+ {
+  "name": "Barbell Press Sit-Up",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on your back on a mat with your knees bent and feet flat on the ground.",
+   "Hold the barbell with an overhand grip, resting it on your chest.",
+   "Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45-degree angle.",
+   "Pause for a moment at the top, then slowly lower your upper body back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-press-sit-up.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-press-sit-up.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0071-wnEscH8.gif"
+ },
+ {
+  "name": "Barbell Rollerout",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "barbell",
+  "steps": [
+   "Kneel on the floor and hold a barbell with both hands, shoulder-width apart.",
+   "Roll the barbell forward, extending your arms and keeping your core engaged.",
+   "Continue rolling forward until your body is fully extended and your arms are overhead.",
+   "Pause for a moment, then slowly roll the barbell back towards your knees, maintaining control.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-rollerout.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-rollerout.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0084-7M66AVi.gif"
+ },
+ {
+  "name": "Barbell Rollerout From Bench",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "barbell",
+  "steps": [
+   "Start by kneeling on the floor with a barbell placed on a bench in front of you.",
+   "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+   "Keeping your core engaged and your back straight, slowly roll the barbell forward, extending your arms in front of you.",
+   "Continue rolling the barbell forward until your body is fully extended and your arms are overhead.",
+   "Pause for a moment at the fully extended position, then slowly roll the barbell back towards your body, returning to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-rollerout-from-bench.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-rollerout-from-bench.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0083-Gxg9lDc.gif"
+ },
+ {
+  "name": "Barbell Seated Twist",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a flat bench with your feet flat on the ground and your knees bent.",
+   "Hold a barbell with both hands in front of your chest, keeping your elbows slightly bent.",
+   "Engage your core and slowly twist your torso to one side, keeping your back straight.",
+   "Pause for a moment at the end of the twist, then slowly rotate back to the starting position.",
+   "Repeat the twist to the other side.",
+   "Continue alternating sides for the desired number of repetitions."
+  ],
+  "fileName": "barbell-seated-twist.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-seated-twist.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0094-dFSNDOA.gif"
+ },
+ {
+  "name": "Barbell Standing Ab Rollerout",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "barbell",
+  "steps": [
+   "Stand upright with your feet shoulder-width apart and hold the barbell with both hands in front of your thighs.",
+   "Engage your core and slowly roll the barbell down towards the ground, keeping your back straight and your arms extended.",
+   "Continue rolling the barbell forward until your body is fully extended and your hands are directly above your head.",
+   "Pause for a moment, then slowly roll the barbell back towards your thighs, maintaining control and keeping your core engaged.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-standing-ab-rollerout.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-standing-ab-rollerout.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0103-xnInPfE.gif"
+ },
+ {
+  "name": "Barbell Standing Twist",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell in front of your chest with both hands, palms facing down.",
+   "Engage your core and keep your back straight throughout the exercise.",
+   "Slowly twist your torso to the right, pivoting on your feet and hips, while keeping your lower body stable.",
+   "Pause for a moment at the end of the twist, then slowly return to the starting position.",
+   "Repeat the twist to the left side.",
+   "Continue alternating twists for the desired number of repetitions."
+  ],
+  "fileName": "barbell-standing-twist.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-standing-twist.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0112-yQe5HpE.gif"
+ },
+ {
+  "name": "Cable Russian Twists (On Stability Ball)",
+  "group": "abdominals",
+  "targetMuscle": "abs",
+  "equipment": "cable",
+  "steps": [
+   "Sit on a stability ball with your feet flat on the ground and your knees bent at a 90-degree angle.",
+   "Hold the cable handle with both hands and extend your arms straight out in front of you.",
+   "Lean back slightly while keeping your back straight and your core engaged.",
+   "Twist your torso to the right, bringing the cable handle towards your right hip.",
+   "Pause for a moment, then twist your torso to the left, bringing the cable handle towards your left hip.",
+   "Continue alternating twists for the desired number of repetitions."
+  ],
+  "fileName": "cable-russian-twists-on-stability-ball.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-russian-twists-on-stability-ball.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0211-d9Xaxq6.gif"
+ },
+ {
+  "name": "Barbell Decline Bent Arm Pullover",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "barbell",
+  "steps": [
+   "Lie down on a decline bench with your head lower than your hips and your feet secured.",
+   "Hold a barbell with a pronated grip (palms facing away from you) and extend your arms straight above your chest.",
+   "Lower the barbell behind your head in a controlled manner, keeping your arms slightly bent.",
+   "Pause for a moment, then raise the barbell back to the starting position by contracting your lats.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-decline-bent-arm-pullover.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-decline-bent-arm-pullover.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0034-hMEptv0.gif"
+ },
+ {
+  "name": "Barbell Decline Wide-Grip Pullover",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "barbell",
+  "steps": [
+   "Lie on a decline bench with your head lower than your hips and your feet secured.",
+   "Hold a barbell with a wide grip and extend your arms straight above your chest.",
+   "Lower the barbell behind your head in a controlled manner, keeping your arms straight.",
+   "Pause for a moment, then raise the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-decline-wide-grip-pullover.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-decline-wide-grip-pullover.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0037-Hj4FOCd.gif"
+ },
+ {
+  "name": "Barbell Pullover",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your head at one end and your feet on the floor.",
+   "Hold a barbell with a shoulder-width grip and extend your arms straight above your chest.",
+   "Keeping your arms straight, lower the barbell behind your head in a controlled manner until you feel a stretch in your lats.",
+   "Pause for a moment, then raise the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-pullover.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-pullover.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0073-i6LWjok.gif"
+ },
+ {
+  "name": "Barbell Pullover To Press",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your head at one end and your feet on the ground.",
+   "Hold the barbell with a pronated grip (palms facing away from you) and extend your arms straight above your chest.",
+   "Keeping your arms straight, lower the barbell behind your head in an arc-like motion until you feel a stretch in your lats.",
+   "Pause for a moment, then reverse the motion and press the barbell back to the starting position above your chest.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-pullover-to-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-pullover-to-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0022-znLogoF.gif"
+ },
+ {
+  "name": "Barbell Shrug",
+  "group": "back",
+  "targetMuscle": "traps",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell in front of you with an overhand grip.",
+   "Keep your arms straight and your back straight throughout the exercise.",
+   "Lift your shoulders up towards your ears as high as possible, squeezing your traps at the top.",
+   "Hold for a moment, then slowly lower your shoulders back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-shrug.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-shrug.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0095-dG7tG5y.gif"
+ },
+ {
+  "name": "Cable Incline Pushdown",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "cable",
+  "steps": [
+   "Attach a straight bar to a high pulley cable machine.",
+   "Stand facing away from the machine with your feet shoulder-width apart.",
+   "Grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Lean forward slightly and keep your back straight.",
+   "Pull the bar down towards your thighs by extending your elbows.",
+   "Pause for a moment at the bottom, then slowly return the bar to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-incline-pushdown.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-incline-pushdown.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0172-1PK5Uo3.gif"
+ },
+ {
+  "name": "Cable Low Seated Row",
+  "group": "back",
+  "targetMuscle": "upper back",
+  "equipment": "cable",
+  "steps": [
+   "Sit on the machine with your feet flat on the footrests and your knees slightly bent.",
+   "Grasp the handles with an overhand grip, palms facing down.",
+   "Keep your back straight and lean slightly forward, maintaining a slight bend in your elbows.",
+   "Pull the handles towards your body, squeezing your shoulder blades together.",
+   "Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-low-seated-row.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-low-seated-row.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0180-hvV79Si.gif"
+ },
+ {
+  "name": "Cable Lying Extension Pullover (With Rope Attachment)",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "cable",
+  "steps": [
+   "Attach a rope to a cable machine and set the pulley at the highest position.",
+   "Lie down on a bench with your head towards the cable machine.",
+   "Hold the rope with both hands and extend your arms straight up above your chest.",
+   "Keeping your arms straight, slowly lower the rope behind your head while maintaining control.",
+   "Pause for a moment at the bottom, then slowly raise the rope back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-lying-extension-pullover-with-rope-attachment.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-lying-extension-pullover-with-rope-attachment.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0184-Q2Eu1Ax.gif"
+ },
+ {
+  "name": "Cable Pushdown (Straight Arm) V. 2",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "cable",
+  "steps": [
+   "Attach a straight bar to a high pulley cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.",
+   "Grasp the bar with an overhand grip, keeping your arms straight and your palms facing down.",
+   "Engage your core and keep your back straight as you exhale and push the bar down towards your thighs.",
+   "Pause for a moment at the bottom, then slowly return the bar to the starting position while inhaling.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-pushdown-straight-arm-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-pushdown-straight-arm-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0199-PskORrA.gif"
+ },
+ {
+  "name": "Cable Shrug",
+  "group": "back",
+  "targetMuscle": "traps",
+  "equipment": "cable",
+  "steps": [
+   "Stand facing the cable machine with your feet shoulder-width apart.",
+   "Grasp the cable handles with an overhand grip and let your arms hang down in front of you.",
+   "Keeping your arms straight, shrug your shoulders up towards your ears.",
+   "Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-shrug.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-shrug.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0220-Eg98Ft9.gif"
+ },
+ {
+  "name": "Cable Standing Twist Row (V-Bar)",
+  "group": "back",
+  "targetMuscle": "upper back",
+  "equipment": "cable",
+  "steps": [
+   "Attach a v-bar attachment to a cable machine at chest height.",
+   "Stand facing the cable machine with your feet shoulder-width apart.",
+   "Grasp the v-bar with an overhand grip, palms facing down.",
+   "Take a step back to create tension in the cable.",
+   "Keep your back straight and core engaged throughout the exercise.",
+   "Pull the v-bar towards your torso by retracting your shoulder blades and bending your elbows.",
+   "As you pull, twist your torso to one side, squeezing your shoulder blades together.",
+   "Pause for a moment at the top of the movement, feeling the contraction in your upper back.",
+   "Slowly release the tension and return to the starting position, untwisting your torso.",
+   "Repeat the movement for the desired number of repetitions, alternating the twisting direction with each rep."
+  ],
+  "fileName": "cable-standing-twist-row-v-bar.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-standing-twist-row-v-bar.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0236-JOZhu2h.gif"
+ },
+ {
+  "name": "Cable Straight Back Seated Row",
+  "group": "back",
+  "targetMuscle": "upper back",
+  "equipment": "cable",
+  "steps": [
+   "Sit on the cable row machine with your feet flat on the footrests and your knees slightly bent.",
+   "Grasp the cable handles with an overhand grip, palms facing down.",
+   "Keep your back straight and lean slightly forward from the hips.",
+   "Pull the cable handles towards your body, squeezing your shoulder blades together.",
+   "Pause for a moment at the peak of the movement, then slowly release the handles back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-straight-back-seated-row.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-straight-back-seated-row.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0239-Tq6gbK6.gif"
+ },
+ {
+  "name": "Cable Twisting Pull",
+  "group": "back",
+  "targetMuscle": "lats",
+  "equipment": "cable",
+  "steps": [
+   "Attach a cable handle to a low pulley and stand facing the machine.",
+   "Grasp the handle with your left hand and step away from the machine, extending your arm fully.",
+   "Position your feet shoulder-width apart, with your knees slightly bent.",
+   "Keep your back straight and your core engaged throughout the exercise.",
+   "Pull the handle towards your body, rotating your torso to the right as you do so.",
+   "Squeeze your back muscles at the end of the movement.",
+   "Slowly return to the starting position, keeping tension on the cable.",
+   "Repeat for the desired number of repetitions, then switch sides and perform with your right hand."
+  ],
+  "fileName": "cable-twisting-pull.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-twisting-pull.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0244-zCgxPbV.gif"
+ },
+ {
+  "name": "Chin-Ups (Narrow Parallel Grip)",
+  "group": "back",
+  "targetMuscle": "upper back",
+  "equipment": "body weight",
+  "steps": [
+   "Hang from a pull-up bar with a narrow parallel grip, palms facing towards you.",
+   "Engage your back muscles and pull your body up towards the bar, keeping your elbows close to your body.",
+   "Continue pulling until your chin is above the bar.",
+   "Pause for a moment at the top, then slowly lower your body back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "chin-ups-narrow-parallel-grip.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/chin-ups-narrow-parallel-grip.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0253-G70mEAJ.gif"
+ },
+ {
+  "name": "Dumbbell Decline Shrug",
+  "group": "back",
+  "targetMuscle": "traps",
+  "equipment": "dumbbell",
+  "steps": [
+   "Set up a decline bench at a 45-degree angle.",
+   "Lie face down on the bench with your chest and stomach resting against it.",
+   "Hold a dumbbell in each hand with your arms fully extended towards the floor.",
+   "Keeping your arms straight, raise your shoulders towards your ears as high as possible.",
+   "Hold the contraction for a moment, then slowly lower the dumbbells back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-decline-shrug.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-decline-shrug.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0305-cwsAI4G.gif"
+ },
+ {
+  "name": "Dumbbell Decline Shrug V. 2",
+  "group": "back",
+  "targetMuscle": "traps",
+  "equipment": "dumbbell",
+  "steps": [
+   "Set up a decline bench at a 45-degree angle.",
+   "Lie face down on the bench with your chest and stomach resting on it.",
+   "Hold a dumbbell in each hand with your palms facing each other and your arms fully extended.",
+   "Keeping your arms straight, raise your shoulders as high as possible while squeezing your shoulder blades together.",
+   "Hold the contraction for a brief pause, then lower the dumbbells back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-decline-shrug-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-decline-shrug-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0304-bRlbdjK.gif"
+ },
+ {
+  "name": "Dumbbell Incline Shrug",
+  "group": "back",
+  "targetMuscle": "traps",
+  "equipment": "dumbbell",
+  "steps": [
+   "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand.",
+   "Place your feet flat on the ground and let your arms hang straight down with your palms facing your body.",
+   "Keeping your arms straight, shrug your shoulders up towards your ears as high as possible.",
+   "Hold the contraction for a moment, then slowly lower your shoulders back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-incline-shrug.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-incline-shrug.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0329-JymLInS.gif"
+ },
+ {
+  "name": "Dumbbell Shrug",
+  "group": "back",
+  "targetMuscle": "traps",
+  "equipment": "dumbbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a dumbbell in each hand with your palms facing your body.",
+   "Keep your arms straight and let the dumbbells hang by your sides.",
+   "Raise your shoulders as high as possible, as if you are trying to touch your ears with your shoulders.",
+   "Hold the contraction for a second, then slowly lower your shoulders back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-shrug.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-shrug.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0406-NJzBsGJ.gif"
+ },
+ {
+  "name": "Barbell Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "barbell",
+  "steps": [
+   "Stand up straight with your feet shoulder-width apart and hold a barbell with an underhand grip, palms facing forward.",
+   "Keep your elbows close to your torso and exhale as you curl the weights while contracting your biceps.",
+   "Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale as you slowly begin to lower the bar back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0031-25GPyDY.gif"
+ },
+ {
+  "name": "Barbell Lying Preacher Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a preacher bench with your chest against the pad and your arms extended over the edge, holding a barbell with an underhand grip.",
+   "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+   "Continue to raise the bar until your biceps are fully contracted and the bar is at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale and slowly begin to lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-lying-preacher-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-lying-preacher-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0059-SYJ4Bkt.gif"
+ },
+ {
+  "name": "Barbell Preacher Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a preacher bench with your upper arms resting on the pad and your chest against the support.",
+   "Grasp the barbell with an underhand grip, slightly wider than shoulder-width apart.",
+   "Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders.",
+   "Pause for a moment at the top, squeezing your biceps.",
+   "Inhale and slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-preacher-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-preacher-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0070-qOgPVf6.gif"
+ },
+ {
+  "name": "Barbell Prone Incline Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "barbell",
+  "steps": [
+   "Set up an incline bench at a 45-degree angle.",
+   "Lie face down on the bench with your chest and stomach resting against it.",
+   "Hold a barbell with an underhand grip, shoulder-width apart.",
+   "Extend your arms fully, allowing the barbell to hang down towards the floor.",
+   "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+   "Continue to raise the barbell until your biceps are fully contracted and the bar is at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale and slowly begin to lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-prone-incline-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-prone-incline-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0072-WLvTAv5.gif"
+ },
+ {
+  "name": "Barbell Reverse Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "barbell",
+  "steps": [
+   "Stand up straight with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down.",
+   "Keep your upper arms stationary and exhale as you curl the barbell upward, contracting your biceps.",
+   "Continue to raise the barbell until your biceps are fully contracted and the barbell is at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale as you slowly lower the barbell back to the starting position, keeping your upper arms stationary.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-reverse-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-reverse-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0080-xNrS20v.gif"
+ },
+ {
+  "name": "Barbell Reverse Preacher Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a preacher bench with your chest against the pad and your arms extended straight down, holding a barbell with an overhand grip.",
+   "Keeping your upper arms stationary, exhale and curl the barbell upward while contracting your biceps.",
+   "Continue to raise the barbell until your biceps are fully contracted and the barbell is at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale and slowly lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-reverse-preacher-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-reverse-preacher-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0081-4LIG9xr.gif"
+ },
+ {
+  "name": "Barbell Seated Close-Grip Concentration Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the floor and hold a barbell with an underhand grip, hands shoulder-width apart.",
+   "Rest your upper arms against your inner thighs, just above your knees, and let the barbell hang down in front of you.",
+   "Keeping your upper arms stationary, exhale and curl the barbell up towards your shoulders, contracting your biceps.",
+   "Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-seated-close-grip-concentration-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-seated-close-grip-concentration-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0089-1V1gj1u.gif"
+ },
+ {
+  "name": "Biceps Narrow Pull-Ups",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "body weight",
+  "steps": [
+   "Hang from a pull-up bar with your palms facing towards you and your hands shoulder-width apart.",
+   "Engage your core and pull yourself up towards the bar, focusing on using your biceps to lift your body.",
+   "Pause for a moment at the top, then slowly lower yourself back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "biceps-narrow-pull-ups.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/biceps-narrow-pull-ups.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0139-50BETrz.gif"
+ },
+ {
+  "name": "Biceps Pull-Up",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "body weight",
+  "steps": [
+   "Hang from a pull-up bar with your palms facing away from you and your hands shoulder-width apart.",
+   "Engage your core and pull yourself up by bending your elbows, bringing your chest towards the bar.",
+   "Pause at the top of the movement, then slowly lower yourself back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "biceps-pull-up.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/biceps-pull-up.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0140-guT8YnS.gif"
+ },
+ {
+  "name": "Cable Hammer Curl (With Rope)",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "cable",
+  "steps": [
+   "Stand upright with your feet shoulder-width apart and a slight bend in your knees.",
+   "Hold the cable rope attachment with an underhand grip, palms facing each other, and your arms fully extended.",
+   "Keeping your upper arms stationary, exhale and curl the weights while contracting your biceps.",
+   "Continue to raise the cable rope attachment until your biceps are fully contracted and the rope is at shoulder level.",
+   "Hold the contracted position for a brief pause as you squeeze your biceps.",
+   "Inhale and slowly begin to lower the cable rope attachment back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-hammer-curl-with-rope.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-hammer-curl-with-rope.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0165-HPlPoQA.gif"
+ },
+ {
+  "name": "Cable Preacher Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the cable machine so that the preacher curl pad is at chest height.",
+   "Sit on the preacher curl bench and place your upper arms on the pad, gripping the cable attachment with an underhand grip.",
+   "Keep your back straight and your elbows tucked in at your sides.",
+   "Slowly curl the cable attachment up towards your shoulders, squeezing your biceps at the top of the movement.",
+   "Pause for a moment, then slowly lower the cable attachment back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-preacher-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-preacher-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0195-P2lNrGL.gif"
+ },
+ {
+  "name": "Cable Reverse Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a straight bar to a low pulley cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart and your knees slightly bent.",
+   "Grasp the bar with an underhand grip, hands shoulder-width apart.",
+   "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+   "Exhale and curl the bar up towards your shoulders, contracting your biceps.",
+   "Pause for a moment at the top, squeezing your biceps.",
+   "Inhale and slowly lower the bar back to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-reverse-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-reverse-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0206-eOG0r6v.gif"
+ },
+ {
+  "name": "Cable Reverse Preacher Curl",
+  "group": "biceps",
+  "targetMuscle": "biceps",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the cable machine so that the preacher curl pad is at chest height.",
+   "Sit on the preacher curl bench and place your upper arms on the pad, with your palms facing down and your elbows fully extended.",
+   "Grab the cable handles with an underhand grip, shoulder-width apart.",
+   "Keeping your upper arms stationary, exhale and curl the handles towards your shoulders, contracting your biceps.",
+   "Pause for a moment at the top of the movement, squeezing your biceps.",
+   "Inhale and slowly lower the handles back to the starting position, fully extending your elbows.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-reverse-preacher-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-reverse-preacher-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0209-IwX5NqK.gif"
+ },
+ {
+  "name": "Barbell Seated Calf Raise",
+  "group": "calves",
+  "targetMuscle": "calves",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the floor and a barbell resting on your thighs.",
+   "Place the balls of your feet on a raised platform, such as a block or step.",
+   "Position the barbell across your thighs and hold it securely with your hands.",
+   "Keeping your back straight and your core engaged, lift your heels off the ground by extending your ankles.",
+   "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-seated-calf-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-seated-calf-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0088-ktsFQAZ.gif"
+ },
+ {
+  "name": "Barbell Standing Leg Calf Raise",
+  "group": "calves",
+  "targetMuscle": "calves",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and place a barbell across your upper back.",
+   "Raise your heels off the ground as high as possible, using your calves.",
+   "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-standing-leg-calf-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-standing-leg-calf-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0108-rGwhJ5o.gif"
+ },
+ {
+  "name": "Barbell Standing Rocking Leg Calf Raise",
+  "group": "calves",
+  "targetMuscle": "calves",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
+   "Raise your heels off the ground as high as possible, balancing on the balls of your feet.",
+   "Slowly lower your heels back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-standing-rocking-leg-calf-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-standing-rocking-leg-calf-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0111-6HiHHe0.gif"
+ },
+ {
+  "name": "Donkey Calf Raise",
+  "group": "calves",
+  "targetMuscle": "calves",
+  "equipment": "body weight",
+  "steps": [
+   "Stand with your toes on an elevated surface, such as a step or block.",
+   "Place your hands on a stable support, such as a wall or railing, for balance.",
+   "Raise your heels as high as possible, lifting your body weight onto the balls of your feet.",
+   "Pause for a moment at the top, then slowly lower your heels back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "donkey-calf-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/donkey-calf-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0284-u5ESqzH.gif"
+ },
+ {
+  "name": "Dumbbell Seated One Leg Calf Raise",
+  "group": "calves",
+  "targetMuscle": "calves",
+  "equipment": "dumbbell",
+  "steps": [
+   "Sit on a bench or chair with your feet flat on the ground and a dumbbell resting on your right thigh.",
+   "Extend your left leg straight out in front of you, keeping your foot flexed.",
+   "Place the ball of your right foot on an elevated surface, such as a step or weight plate.",
+   "Using your calf muscles, raise your right heel as high as possible.",
+   "Pause for a moment at the top, then slowly lower your heel back down to the starting position.",
+   "Repeat for the desired number of repetitions, then switch legs."
+  ],
+  "fileName": "dumbbell-seated-one-leg-calf-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-seated-one-leg-calf-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0400-Ia7tumC.gif"
+ },
+ {
+  "name": "Dumbbell Single Leg Calf Raise",
+  "group": "calves",
+  "targetMuscle": "calves",
+  "equipment": "dumbbell",
+  "steps": [
+   "Stand on the edge of a step or platform with your heels hanging off and your toes on the step.",
+   "Hold a dumbbell in one hand and place your other hand on a wall or railing for support.",
+   "Raise your heel as high as possible, lifting your body up onto your toes.",
+   "Pause for a moment at the top, then slowly lower your heel back down below the step.",
+   "Repeat for the desired number of repetitions, then switch to the other leg."
+  ],
+  "fileName": "dumbbell-single-leg-calf-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-single-leg-calf-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0409-1kB3Wmk.gif"
+ },
+ {
+  "name": "Barbell Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+   "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.",
+   "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+   "Lower the barbell slowly towards your chest, keeping your elbows tucked in.",
+   "Pause for a moment when the barbell touches your chest.",
+   "Push the barbell back up to the starting position by extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0025-EIeI8Vf.gif"
+ },
+ {
+  "name": "Barbell Decline Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "barbell",
+  "steps": [
+   "Lie on a decline bench with your feet secured and your head lower than your hips.",
+   "Grasp the barbell with an overhand grip slightly wider than shoulder-width apart.",
+   "Unrack the barbell and lower it slowly towards your chest, keeping your elbows tucked in.",
+   "Pause for a moment at the bottom, then push the barbell back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-decline-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-decline-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0033-GrO65fd.gif"
+ },
+ {
+  "name": "Barbell Front Raise And Pullover",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down.",
+   "Keep your arms straight and raise the barbell in front of you until it reaches shoulder height.",
+   "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+   "Next, lower the barbell behind your head, keeping your arms straight.",
+   "Pause for a moment at the bottom, then raise the barbell back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-front-raise-and-pullover.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-front-raise-and-pullover.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0040-33AzZeV.gif"
+ },
+ {
+  "name": "Barbell Guillotine Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+   "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+   "Lower the barbell slowly towards your neck, keeping your elbows pointed outwards.",
+   "Pause for a moment when the barbell is just above your neck.",
+   "Push the barbell back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-guillotine-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-guillotine-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0045-GXoaSgn.gif"
+ },
+ {
+  "name": "Barbell Incline Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "barbell",
+  "steps": [
+   "Set up an incline bench at a 45-degree angle.",
+   "Lie down on the bench with your feet flat on the ground.",
+   "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+   "Unrack the barbell and lower it slowly towards your chest, keeping your elbows at a 45-degree angle.",
+   "Pause for a moment at the bottom, then push the barbell back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-incline-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-incline-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0047-3TZduzM.gif"
+ },
+ {
+  "name": "Barbell Wide Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+   "Grasp the barbell with a wide grip, slightly wider than shoulder-width apart.",
+   "Lift the barbell off the rack and hold it directly above your chest with your arms fully extended.",
+   "Lower the barbell slowly towards your chest, keeping your elbows slightly flared out.",
+   "Pause for a moment when the barbell touches your chest, then push it back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-wide-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-wide-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0122-JsKq9so.gif"
+ },
+ {
+  "name": "Cable Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the cable machine to chest height and attach the handles.",
+   "Stand facing away from the machine with your feet shoulder-width apart.",
+   "Grasp the handles with an overhand grip and step forward to create tension in the cables.",
+   "Position your feet firmly on the ground and engage your core.",
+   "Bend your elbows and bring your hands to shoulder level, keeping your elbows at a 90-degree angle.",
+   "Push the handles forward, extending your arms fully in front of you.",
+   "Pause for a moment, then slowly reverse the movement, bringing your hands back to shoulder level.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0151-7xI5MXA.gif"
+ },
+ {
+  "name": "Cable Decline Fly",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the cable machine to a decline position.",
+   "Stand facing away from the machine with your feet shoulder-width apart.",
+   "Hold the handles with your palms facing forward and your arms extended straight out in front of you.",
+   "Keeping a slight bend in your elbows, open your arms out to the sides in a controlled motion.",
+   "Pause for a moment at the fully extended position, then slowly return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-decline-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-decline-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0158-7saC5zz.gif"
+ },
+ {
+  "name": "Cable Incline Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the bench to a 45-degree incline.",
+   "Attach the cable handles to the high pulleys.",
+   "Sit on the bench facing the cable machine with your feet flat on the ground.",
+   "Grasp the handles with an overhand grip and bring them to shoulder height.",
+   "Push the handles forward and upward until your arms are fully extended.",
+   "Pause for a moment, then slowly lower the handles back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-incline-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-incline-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0169-Vh0GsK4.gif"
+ },
+ {
+  "name": "Cable Incline Fly",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the cable machine to a low position and attach the handles.",
+   "Sit on an incline bench with your back against the pad and feet flat on the floor.",
+   "Grasp the handles with an overhand grip and extend your arms straight out in front of you.",
+   "Keeping a slight bend in your elbows, open your arms out to the sides in a controlled motion.",
+   "Pause for a moment at the fully extended position, then slowly return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-incline-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-incline-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0171-tBWXbIT.gif"
+ },
+ {
+  "name": "Cable Incline Fly (On Stability Ball)",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Set up a stability ball at an incline angle.",
+   "Attach the cable handles to the high pulleys of a cable machine.",
+   "Sit on the stability ball facing away from the machine, with your feet firmly planted on the ground.",
+   "Grasp the cable handles with an overhand grip, palms facing forward.",
+   "Lean forward slightly, keeping your back straight and core engaged.",
+   "With a controlled motion, bring your arms out to the sides, keeping a slight bend in your elbows.",
+   "Continue the motion until your arms are parallel to the ground.",
+   "Pause for a moment, then slowly return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-incline-fly-on-stability-ball.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-incline-fly-on-stability-ball.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0170-27NNGFr.gif"
+ },
+ {
+  "name": "Cable Low Fly",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Attach the handles to the low pulleys of a cable machine and select an appropriate weight.",
+   "Stand in the middle of the machine with your feet shoulder-width apart and a slight bend in your knees.",
+   "Grasp the handles with an overhand grip and extend your arms out to the sides, keeping a slight bend in your elbows.",
+   "Maintaining control, slowly bring your arms forward in a sweeping motion, crossing them in front of your body.",
+   "Pause for a moment at the peak of the movement, feeling the stretch in your chest muscles.",
+   "Reverse the motion and slowly return your arms to the starting position, keeping tension on your chest muscles throughout.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-low-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-low-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0179-FVmZVhk.gif"
+ },
+ {
+  "name": "Cable Lying Fly",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Attach the handles to the cables and lie flat on a bench with your feet flat on the ground.",
+   "Hold the handles with your palms facing each other and your arms extended straight above your chest.",
+   "Keeping a slight bend in your elbows, lower your arms out to the sides in a wide arc until you feel a stretch in your chest.",
+   "Pause for a moment, then squeeze your chest muscles to bring your arms back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-lying-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-lying-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0185-lJJ7Yq8.gif"
+ },
+ {
+  "name": "Cable Middle Fly",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Attach cables to both sides of a cable machine at chest height.",
+   "Stand in the center of the machine with one foot slightly in front of the other.",
+   "Grasp the handles with an overhand grip and extend your arms out to the sides.",
+   "Keep a slight bend in your elbows and maintain a slight forward lean.",
+   "Engage your chest muscles and bring your arms forward in a sweeping motion.",
+   "Pause for a moment at the center, then slowly return your arms back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-middle-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-middle-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0188-xLYSdtg.gif"
+ },
+ {
+  "name": "Cable Standing Fly",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "cable",
+  "steps": [
+   "Attach the handles to the cables at chest height.",
+   "Stand with your feet shoulder-width apart, facing away from the cable machine.",
+   "Grasp the handles with an overhand grip, palms facing forward.",
+   "Step forward slightly to create tension in the cables.",
+   "Keep your core engaged and your back straight throughout the exercise.",
+   "With a slight bend in your elbows, slowly bring your arms forward and together in front of your chest.",
+   "Squeeze your chest muscles at the peak of the movement.",
+   "Slowly reverse the movement, returning your arms to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-standing-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-standing-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0227-Pr9Rhf4.gif"
+ },
+ {
+  "name": "Clock Push-Up",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "body weight",
+  "steps": [
+   "Start in a high plank position with your hands directly under your shoulders and your body in a straight line.",
+   "Lower your body towards the ground by bending your elbows, keeping them close to your sides.",
+   "As you lower, rotate your body to the left, extending your left arm straight out to the side.",
+   "Push back up to the starting position, while rotating your body to the center.",
+   "Repeat the push-up, this time rotating your body to the right and extending your right arm out to the side.",
+   "Continue alternating sides with each repetition."
+  ],
+  "fileName": "clock-push-up.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/clock-push-up.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0258-CMAxnsG.gif"
+ },
+ {
+  "name": "Decline Push-Up",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "body weight",
+  "steps": [
+   "Place your hands on the ground slightly wider than shoulder-width apart, with your feet elevated on a stable surface.",
+   "Keep your body in a straight line from head to toe, engaging your core muscles.",
+   "Lower your chest towards the ground by bending your elbows, keeping them close to your body.",
+   "Push through your palms to extend your arms and return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "decline-push-up.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/decline-push-up.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0279-i5cEhka.gif"
+ },
+ {
+  "name": "Dumbbell Around Pullover",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "dumbbell",
+  "steps": [
+   "Lie flat on a bench with your head at one end and your feet firmly on the ground.",
+   "Hold a dumbbell with both hands and extend your arms straight above your chest.",
+   "Keeping your arms straight, slowly lower the dumbbell behind your head in an arc motion.",
+   "Pause for a moment at the bottom, then raise the dumbbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-around-pullover.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-around-pullover.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0288-vi8EhoE.gif"
+ },
+ {
+  "name": "Dumbbell Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "dumbbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+   "Hold a dumbbell in each hand, with your palms facing forward and your arms extended above your chest.",
+   "Lower the dumbbells slowly to the sides of your chest, keeping your elbows at a 90-degree angle.",
+   "Pause for a moment, then push the dumbbells back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0289-SpYC0Kp.gif"
+ },
+ {
+  "name": "Dumbbell Decline Bench Press",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "dumbbell",
+  "steps": [
+   "Lie down on a decline bench with your feet secured and your head lower than your hips.",
+   "Hold a dumbbell in each hand and extend your arms straight up above your chest, palms facing forward.",
+   "Lower the dumbbells slowly to the sides of your chest, keeping your elbows at a 90-degree angle.",
+   "Push the dumbbells back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-decline-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-decline-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0301-DwhEmmE.gif"
+ },
+ {
+  "name": "Dumbbell Decline Twist Fly",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "dumbbell",
+  "steps": [
+   "Lie down on a decline bench with your head lower than your hips.",
+   "Hold a dumbbell in each hand with your palms facing each other and your arms extended straight up over your chest.",
+   "Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.",
+   "As you lower the dumbbells, twist your wrists so that your palms face forward at the bottom of the movement.",
+   "Reverse the motion and bring the dumbbells back up to the starting position, squeezing your chest muscles at the top.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-decline-twist-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-decline-twist-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0307-reFHapa.gif"
+ },
+ {
+  "name": "Dumbbell Incline Twisted Flyes",
+  "group": "chest",
+  "targetMuscle": "pectorals",
+  "equipment": "dumbbell",
+  "steps": [
+   "Set an incline bench to a 45-degree angle and sit on it with a dumbbell in each hand, palms facing each other.",
+   "Lie back on the bench and press the dumbbells up to the starting position, directly above your chest, with your arms extended.",
+   "Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.",
+   "As you lower the dumbbells, rotate your wrists so that your palms face forward at the bottom of the movement.",
+   "Reverse the motion and bring the dumbbells back up to the starting position, squeezing your chest muscles together at the top.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-incline-twisted-flyes.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-incline-twisted-flyes.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0331-1PLE8e9.gif"
+ },
+ {
+  "name": "Barbell Revers Wrist Curl V. 2",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the ground and your knees bent.",
+   "Hold a barbell with an overhand grip, palms facing down, and your hands shoulder-width apart.",
+   "Rest your forearms on your thighs, allowing your wrists to hang off the edge.",
+   "Keeping your forearms stationary, exhale and curl your wrists upward as far as possible.",
+   "Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-revers-wrist-curl-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-revers-wrist-curl-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0079-qDnGfDb.gif"
+ },
+ {
+  "name": "Barbell Reverse Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the ground and hold a barbell with an overhand grip, palms facing down.",
+   "Rest your forearms on your thighs, allowing your wrists to hang off the edge.",
+   "Slowly curl your wrists upward, bringing the barbell towards your body.",
+   "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-reverse-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-reverse-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0082-LsZkfU6.gif"
+ },
+ {
+  "name": "Barbell Standing Back Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "barbell",
+  "steps": [
+   "Stand up straight with your feet shoulder-width apart and hold a barbell with an overhand grip.",
+   "Rest the barbell on the back of your hands with your palms facing down and your fingers pointing towards your body.",
+   "Keeping your upper arms stationary, exhale and curl your wrists upwards as far as possible.",
+   "Hold the contracted position for a brief pause, then inhale and slowly lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-standing-back-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-standing-back-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0104-2qTvJAZ.gif"
+ },
+ {
+  "name": "Barbell Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the ground and your forearms resting on your thighs, holding a barbell with an underhand grip.",
+   "Allow the barbell to roll down to your fingertips, keeping your wrists straight.",
+   "Slowly curl the barbell up towards your forearms by flexing your wrists.",
+   "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0126-82LxxkW.gif"
+ },
+ {
+  "name": "Barbell Wrist Curl V. 2",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the ground and your knees bent.",
+   "Hold a barbell with an underhand grip, palms facing up, and your hands shoulder-width apart.",
+   "Rest your forearms on your thighs, allowing your wrists to hang off the edge.",
+   "Slowly curl your wrists upward, bringing the barbell towards your forearms.",
+   "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-wrist-curl-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-wrist-curl-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0125-6kSxYnw.gif"
+ },
+ {
+  "name": "Cable Reverse Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "cable",
+  "steps": [
+   "Attach a cable to a low pulley and sit on a bench facing the cable machine.",
+   "Grasp the cable handle with an overhand grip, palms facing down.",
+   "Rest your forearms on your thighs, with your wrists hanging off the edge.",
+   "Keeping your forearms stationary, exhale and curl your wrists upward as far as possible.",
+   "Pause for a moment at the top, then inhale and slowly lower your wrists back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-reverse-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-reverse-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0210-eYmsEPR.gif"
+ },
+ {
+  "name": "Cable Standing Back Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "cable",
+  "steps": [
+   "Stand facing a cable machine with your feet shoulder-width apart.",
+   "Hold the cable handle with an overhand grip, palms facing down.",
+   "Keep your arms straight and your elbows close to your sides.",
+   "Slowly curl your wrists upward, bringing the cable handle towards your body.",
+   "Pause for a moment at the top, then slowly lower the cable handle back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-standing-back-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-standing-back-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0224-VhX2JdE.gif"
+ },
+ {
+  "name": "Cable Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "cable",
+  "steps": [
+   "Attach a straight bar to a low pulley cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart.",
+   "Grasp the bar with an underhand grip, palms facing up, and your hands shoulder-width apart.",
+   "Rest your forearms on a bench or pad, with your wrists hanging off the edge.",
+   "Keeping your forearms stationary, exhale and curl your wrists upward as far as possible.",
+   "Pause for a moment at the top, then inhale and slowly lower the bar back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0247-LrV4s90.gif"
+ },
+ {
+  "name": "Dumbbell One Arm Reverse Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "dumbbell",
+  "steps": [
+   "Sit on a bench or chair with your feet flat on the ground.",
+   "Hold a dumbbell in one hand with an overhand grip, palm facing down.",
+   "Rest your forearm on your thigh, with your wrist hanging off the edge.",
+   "Slowly lower the dumbbell towards the ground by flexing your wrist.",
+   "Pause for a moment at the bottom, then slowly curl your wrist back up towards your body.",
+   "Repeat for the desired number of repetitions, then switch to the other arm."
+  ],
+  "fileName": "dumbbell-one-arm-reverse-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-one-arm-reverse-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0358-BwSNDGt.gif"
+ },
+ {
+  "name": "Dumbbell One Arm Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "dumbbell",
+  "steps": [
+   "Sit on a bench or chair with your feet flat on the ground.",
+   "Hold a dumbbell in one hand with an underhand grip, resting your forearm on your thigh.",
+   "Allow your wrist to extend, letting the dumbbell roll down towards your fingers.",
+   "Slowly curl your wrist back up, bringing the dumbbell towards your forearm.",
+   "Repeat for the desired number of repetitions, then switch to the other hand."
+  ],
+  "fileName": "dumbbell-one-arm-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-one-arm-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0364-q8aHNoF.gif"
+ },
+ {
+  "name": "Dumbbell Over Bench One Arm Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "dumbbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the ground and hold a dumbbell in one hand, palm facing down.",
+   "Rest your forearm on the bench with your wrist hanging off the edge.",
+   "Slowly curl your wrist upwards, bringing the dumbbell towards your forearm.",
+   "Pause for a moment at the top, then slowly lower the dumbbell back down to the starting position.",
+   "Repeat for the desired number of repetitions, then switch to the other arm."
+  ],
+  "fileName": "dumbbell-over-bench-one-arm-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-over-bench-one-arm-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0367-KI1DjNN.gif"
+ },
+ {
+  "name": "Dumbbell Over Bench Revers Wrist Curl",
+  "group": "forearms",
+  "targetMuscle": "forearms",
+  "equipment": "dumbbell",
+  "steps": [
+   "Sit on a bench with your feet flat on the ground and hold a dumbbell in each hand, palms facing down.",
+   "Rest your forearms on the bench, allowing your wrists to hang off the edge.",
+   "Slowly curl your wrists upward, bringing the dumbbells towards your body.",
+   "Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-over-bench-revers-wrist-curl.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-over-bench-revers-wrist-curl.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0368-3tAXPQ6.gif"
+ },
+ {
+  "name": "Barbell Clean-Grip Front Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart and the barbell resting on your upper chest, with your elbows pointing forward.",
+   "Lower your body by bending your knees and pushing your hips back, as if you are sitting back into a chair.",
+   "Keep your chest up and your back straight as you lower down, making sure your knees do not go past your toes.",
+   "Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.",
+   "Pause for a moment at the bottom, then push through your heels to stand back up, extending your hips and knees.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-clean-grip-front-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-clean-grip-front-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0029-qi996YS.gif"
+ },
+ {
+  "name": "Barbell Deadlift",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and the barbell on the ground in front of you.",
+   "Bend your knees and hinge at the hips to lower your torso and grip the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Keep your back straight and chest lifted as you drive through your heels to lift the barbell off the ground, extending your hips and knees.",
+   "As you stand up straight, squeeze your glutes and keep your core engaged.",
+   "Lower the barbell back down to the ground by bending at the hips and knees, keeping your back straight.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-deadlift.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-deadlift.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0032-ila4NZS.gif"
+ },
+ {
+  "name": "Barbell Front Chest Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart, toes slightly turned out.",
+   "Hold the barbell in front of your chest with your hands shoulder-width apart, elbows pointing forward.",
+   "Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees.",
+   "Lower until your thighs are parallel to the ground, or as low as you can comfortably go.",
+   "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-front-chest-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-front-chest-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0039-IeTIEqg.gif"
+ },
+ {
+  "name": "Barbell Front Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart, toes slightly turned out.",
+   "Hold the barbell in front of your shoulders, resting it on your collarbone and shoulders.",
+   "Engage your core and keep your chest up as you lower your body down into a squat position, pushing your hips back and bending your knees.",
+   "Lower until your thighs are parallel to the ground, or as low as you can comfortably go.",
+   "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-front-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-front-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0042-zG0zs85.gif"
+ },
+ {
+  "name": "Barbell Full Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart, toes slightly turned out.",
+   "Hold the barbell across your upper back, resting it on your traps or rear delts.",
+   "Engage your core and keep your chest up as you begin to lower your body down.",
+   "Bend at the knees and hips, pushing your hips back and down as if sitting into a chair.",
+   "Lower yourself until your thighs are parallel to the ground or slightly below.",
+   "Keep your knees in line with your toes and your weight in your heels.",
+   "Drive through your heels to stand back up, extending your hips and knees.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-full-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-full-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0043-qXTaZnJ.gif"
+ },
+ {
+  "name": "Barbell Hack Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart and your toes slightly turned out.",
+   "Hold the barbell behind your legs, resting it on your upper thighs.",
+   "Lower your body by bending at the knees and hips, keeping your back straight and your chest up.",
+   "Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.",
+   "Pause for a moment, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-hack-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-hack-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0046-5VCj6iH.gif"
+ },
+ {
+  "name": "Barbell Jefferson Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and toes slightly turned out.",
+   "Hold the barbell with an overhand grip, resting it on the front of your body, just below your waist.",
+   "Step your left foot forward and your right foot back, keeping your feet shoulder-width apart.",
+   "Bend your knees and lower your body down into a squat position, keeping your back straight and chest up.",
+   "Push through your heels to stand back up to the starting position.",
+   "Repeat the movement, alternating your forward and back foot with each repetition."
+  ],
+  "fileName": "barbell-jefferson-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-jefferson-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0051-pkSoCW9.gif"
+ },
+ {
+  "name": "Barbell Jump Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart, holding a barbell across your upper back.",
+   "Lower your body into a squat position by bending your knees and pushing your hips back.",
+   "Once you reach the bottom of the squat, explode upwards by jumping off the ground.",
+   "As you jump, extend your hips, knees, and ankles, pushing through your toes.",
+   "Land softly back into the squat position and immediately repeat the movement for the desired number of repetitions."
+  ],
+  "fileName": "barbell-jump-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-jump-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0053-1gFNTZV.gif"
+ },
+ {
+  "name": "Barbell Lunge",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart and a barbell resting on your upper back.",
+   "Take a step forward with your right foot, keeping your torso upright.",
+   "Lower your body by bending your right knee until your thigh is parallel to the ground.",
+   "Push through your right heel to return to the starting position.",
+   "Repeat with your left leg, alternating legs for the desired number of repetitions."
+  ],
+  "fileName": "barbell-lunge.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-lunge.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0054-t8iSghb.gif"
+ },
+ {
+  "name": "Barbell Narrow Stance Squat",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and toes pointing slightly outward.",
+   "Hold the barbell across your upper back, resting it on your traps or rear delts.",
+   "Engage your core and keep your chest up as you slowly lower your body by bending your knees and pushing your hips back.",
+   "Continue lowering until your thighs are parallel to the ground or slightly below.",
+   "Pause for a moment, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-narrow-stance-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-narrow-stance-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0063-elhhVgj.gif"
+ },
+ {
+  "name": "Barbell Romanian Deadlift",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and your toes pointing forward.",
+   "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Bend at the hips, keeping your back straight and your knees slightly bent.",
+   "Lower the barbell towards the ground, keeping it close to your body.",
+   "Feel the stretch in your hamstrings as you lower the barbell.",
+   "Once you feel a stretch in your hamstrings, push your hips forward and stand up straight.",
+   "Squeeze your glutes at the top of the movement.",
+   "Lower the barbell back down to the starting position and repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-romanian-deadlift.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-romanian-deadlift.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0085-wQ2c4XD.gif"
+ },
+ {
+  "name": "Barbell Sumo Deadlift",
+  "group": "glutes",
+  "targetMuscle": "glutes",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet wider than shoulder-width apart, toes pointing outwards.",
+   "Place a barbell on the ground in front of you, centered between your feet.",
+   "Bend your knees and lower your hips, keeping your back straight and chest up, to grip the barbell with an overhand grip.",
+   "Engage your core and drive through your heels to lift the barbell off the ground, extending your hips and knees simultaneously.",
+   "As you lift, keep your chest up and back straight, and push your hips forward to fully engage your glutes.",
+   "Pause for a moment at the top, then slowly lower the barbell back down to the starting position, maintaining control throughout the movement.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-sumo-deadlift.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-sumo-deadlift.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0117-KgI0tqW.gif"
+ },
+ {
+  "name": "Barbell Good Morning",
+  "group": "hamstrings",
+  "targetMuscle": "hamstrings",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart and the barbell resting on your upper back.",
+   "Keeping your back straight and your core engaged, hinge forward at the hips, pushing your buttocks back as if you were trying to touch the wall behind you with your glutes.",
+   "Lower your torso until it is parallel to the ground, feeling a stretch in your hamstrings.",
+   "Pause for a moment, then return to the starting position by squeezing your glutes and pushing your hips forward.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-good-morning.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-good-morning.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0044-XlZ4lAC.gif"
+ },
+ {
+  "name": "Barbell Straight Leg Deadlift",
+  "group": "hamstrings",
+  "targetMuscle": "hamstrings",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and your toes pointing forward.",
+   "Hold the barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Bend at your hips and lower the barbell towards the ground, keeping your back straight and your knees slightly bent.",
+   "Lower the barbell until you feel a stretch in your hamstrings.",
+   "Engage your hamstrings and glutes to lift the barbell back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-straight-leg-deadlift.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-straight-leg-deadlift.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0116-hrVQWvE.gif"
+ },
+ {
+  "name": "Barbell Bench Front Squat",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Start by standing with your feet shoulder-width apart and the barbell resting on your upper chest, just below your collarbone.",
+   "Hold the barbell with an overhand grip, keeping your elbows up and your upper arms parallel to the ground.",
+   "Lower your body down into a squat position by bending at the knees and hips, keeping your back straight and your chest up.",
+   "Pause for a moment at the bottom of the squat, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-bench-front-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-bench-front-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0024-Y7YcmIJ.gif"
+ },
+ {
+  "name": "Barbell Bench Squat",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Set up a barbell on a squat rack at chest height.",
+   "Stand facing away from the rack, with your feet shoulder-width apart.",
+   "Bend your knees and lower your body down into a squat position, keeping your back straight and chest up.",
+   "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+   "Lift the barbell off the rack and step back, ensuring your feet are still shoulder-width apart.",
+   "Lower your body down into a squat, keeping your knees in line with your toes.",
+   "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-bench-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-bench-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0026-W9pFVv1.gif"
+ },
+ {
+  "name": "Barbell One Leg Squat",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell across your upper back.",
+   "Lift one foot off the ground and extend it forward, keeping it parallel to the ground.",
+   "Bend your standing leg and lower your body down as if sitting back into a chair, keeping your chest up and your back straight.",
+   "Lower yourself until your thigh is parallel to the ground, then push through your heel to return to the starting position.",
+   "Repeat for the desired number of repetitions, then switch legs and repeat."
+  ],
+  "fileName": "barbell-one-leg-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-one-leg-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0068-uKyN64F.gif"
+ },
+ {
+  "name": "Barbell Overhead Squat",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and toes slightly turned out.",
+   "Hold the barbell with a wide grip, positioning it overhead with your arms fully extended.",
+   "Engage your core and lower your body down into a squat position, keeping your chest up and knees tracking over your toes.",
+   "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-overhead-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-overhead-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0069-gfk9kD4.gif"
+ },
+ {
+  "name": "Barbell Side Split Squat",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet wider than shoulder-width apart, toes pointing slightly outward.",
+   "Hold a barbell across your upper back, resting it on your traps.",
+   "Engage your core and keep your chest up as you lower your body down into a squat position, bending at the knees and hips.",
+   "As you lower, push your knees out to the sides and keep your weight on your heels.",
+   "Lower until your thighs are parallel to the ground, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-side-split-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-side-split-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0098-W31mMjd.gif"
+ },
+ {
+  "name": "Barbell Side Split Squat V. 2",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet wider than shoulder-width apart, toes pointing slightly outwards.",
+   "Hold a barbell across your upper back, resting it on your shoulders.",
+   "Take a big step to the side with your right foot, keeping your left foot planted.",
+   "Bend your right knee and lower your body down into a squat position, keeping your chest up and your back straight.",
+   "Push through your right heel to return to the starting position.",
+   "Repeat on the other side, stepping out with your left foot.",
+   "Continue alternating sides for the desired number of repetitions."
+  ],
+  "fileName": "barbell-side-split-squat-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-side-split-squat-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0097-HUEqZ1y.gif"
+ },
+ {
+  "name": "Barbell Single Leg Split Squat",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a barbell across your upper back.",
+   "Take a large step forward with one leg, keeping your torso upright.",
+   "Lower your body by bending your front knee and hip, while keeping your back leg straight.",
+   "Continue lowering until your front thigh is parallel to the ground.",
+   "Pause for a moment, then push through your front heel to return to the starting position.",
+   "Repeat for the desired number of repetitions, then switch legs."
+  ],
+  "fileName": "barbell-single-leg-split-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-single-leg-split-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0099-gGNQmVt.gif"
+ },
+ {
+  "name": "Barbell Squat (On Knees)",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Start by kneeling on the ground with your knees hip-width apart and your toes pointing forward.",
+   "Place a barbell across your shoulders, gripping it with an overhand grip and your hands slightly wider than shoulder-width apart.",
+   "Engage your core and keep your chest lifted as you slowly lower your body down by bending your knees, keeping your back straight.",
+   "Continue lowering until your thighs are parallel to the ground, or as low as you can comfortably go.",
+   "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-squat-on-knees.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-squat-on-knees.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0102-oR7O9LW.gif"
+ },
+ {
+  "name": "Barbell Wide Squat",
+  "group": "quadriceps",
+  "targetMuscle": "quads",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet wider than shoulder-width apart, toes pointing slightly outward.",
+   "Hold the barbell across your upper back, resting it on your traps or rear delts.",
+   "Engage your core and keep your chest up as you lower your body down into a squat, pushing your hips back and bending your knees.",
+   "Lower until your thighs are parallel to the ground, or as low as you can comfortably go.",
+   "Pause for a moment at the bottom, then push through your heels to return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-wide-squat.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-wide-squat.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0124-s7HX1BY.gif"
+ },
+ {
+  "name": "Barbell Front Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell in front of your thighs with an overhand grip.",
+   "Keep your arms straight and lift the barbell forward and upward until it reaches shoulder level.",
+   "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-front-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-front-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0041-b2Uoz54.gif"
+ },
+ {
+  "name": "Barbell Rear Delt Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, palms facing down.",
+   "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+   "Raise the barbell out to the sides, keeping your arms straight, until they are parallel to the ground.",
+   "Pause for a moment at the top, then slowly lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-rear-delt-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-rear-delt-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0075-Ln9iTbU.gif"
+ },
+ {
+  "name": "Barbell Rear Delt Row",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and knees slightly bent.",
+   "Hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Bend forward at the hips, keeping your back straight and chest up.",
+   "Pull the barbell towards your chest, squeezing your shoulder blades together.",
+   "Pause for a moment at the top, then slowly lower the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-rear-delt-row.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-rear-delt-row.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0076-S9zHIvU.gif"
+ },
+ {
+  "name": "Barbell Seated Behind Head Military Press",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your back straight and feet flat on the ground.",
+   "Hold the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+   "Lift the barbell off the rack and bring it down to shoulder level, behind your head.",
+   "Press the barbell upward until your arms are fully extended.",
+   "Lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-seated-behind-head-military-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-seated-behind-head-military-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0086-ngPpyRS.gif"
+ },
+ {
+  "name": "Barbell Seated Overhead Press",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your back straight and feet flat on the ground.",
+   "Hold the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+   "Lift the barbell off the rack and bring it to shoulder level, with your elbows bent and palms facing forward.",
+   "Press the barbell overhead by extending your arms fully.",
+   "Pause for a moment at the top, then slowly lower the barbell back to shoulder level.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-seated-overhead-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-seated-overhead-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0091-kTbSH9h.gif"
+ },
+ {
+  "name": "Barbell Standing Front Raise Over Head",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a barbell in front of your thighs with an overhand grip.",
+   "Keep your back straight and engage your core.",
+   "Slowly raise the barbell in front of you, keeping your arms straight and your palms facing down.",
+   "Continue lifting until the barbell is slightly above shoulder level.",
+   "Pause for a moment at the top, then slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-standing-front-raise-over-head.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-standing-front-raise-over-head.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0107-S8mo30S.gif"
+ },
+ {
+  "name": "Barbell Upright Row",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Let the barbell hang in front of your thighs, arms fully extended.",
+   "Keeping your back straight and core engaged, exhale and lift the barbell straight up towards your chin, leading with your elbows.",
+   "Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-upright-row.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-upright-row.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0120-UDlhcO8.gif"
+ },
+ {
+  "name": "Barbell Upright Row V. 2",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Let the barbell hang in front of your thighs, arms fully extended.",
+   "Keeping your back straight, exhale and lift the barbell straight up towards your chin, leading with your elbows.",
+   "Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-upright-row-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-upright-row-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0119-83HoW9X.gif"
+ },
+ {
+  "name": "Barbell Upright Row V. 3",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands slightly wider than shoulder-width apart.",
+   "Let the barbell hang in front of your thighs, arms fully extended.",
+   "Keeping your core engaged and back straight, exhale as you lift the barbell straight up towards your chin, leading with your elbows.",
+   "Pause for a moment at the top, then inhale as you slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-upright-row-v-3.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-upright-row-v-3.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0121-fI18Rbc.gif"
+ },
+ {
+  "name": "Barbell Wide-Grip Upright Row",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip, hands wider than shoulder-width apart.",
+   "Let the barbell hang in front of your thighs, arms fully extended.",
+   "Keeping your back straight, exhale and lift the barbell straight up towards your chin, leading with your elbows.",
+   "Pause for a moment at the top, then inhale and slowly lower the barbell back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-wide-grip-upright-row.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-wide-grip-upright-row.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0123-RgJDRR1.gif"
+ },
+ {
+  "name": "Cable Alternate Shoulder Press",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Stand with your feet shoulder-width apart and grasp the handles of the cable machine with an overhand grip.",
+   "Position your hands at shoulder height, with your palms facing forward.",
+   "Keep your core engaged and your back straight.",
+   "Press one handle up and forward until your arm is fully extended.",
+   "Pause for a moment at the top, then slowly lower the handle back to the starting position.",
+   "Repeat with the other arm.",
+   "Alternate between arms for the desired number of repetitions."
+  ],
+  "fileName": "cable-alternate-shoulder-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-alternate-shoulder-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0148-KHPZL0b.gif"
+ },
+ {
+  "name": "Cable Cross-Over Revers Fly",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Attach a D-handle to each low pulley cable and stand in the middle of the cable crossover machine.",
+   "Grasp the handles with a pronated grip (palms facing down) and take a step forward, positioning your feet shoulder-width apart.",
+   "Bend your knees slightly and lean forward at the waist, keeping your back straight and your abs engaged.",
+   "With your arms extended out to the sides and slightly bent at the elbows, exhale and squeeze your shoulder blades together as you pull the cables back and upward in a reverse fly motion.",
+   "Pause for a moment at the peak contraction, then inhale and slowly return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-cross-over-revers-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-cross-over-revers-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0154-aqvSOQE.gif"
+ },
+ {
+  "name": "Cable Front Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Stand with your feet shoulder-width apart and grasp the cable handle with an overhand grip.",
+   "Keep your back straight and your core engaged.",
+   "Raise the cable handle in front of you, keeping your arms straight and your palms facing down.",
+   "Continue lifting until your arms are parallel to the floor.",
+   "Pause for a moment at the top, then slowly lower the cable handle back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-front-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-front-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0162-u2X71Np.gif"
+ },
+ {
+  "name": "Cable Lateral Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Stand with your feet shoulder-width apart and grasp the cable handles with an overhand grip.",
+   "Keep your arms straight and your core engaged.",
+   "Raise your arms out to the sides until they are parallel to the floor.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-lateral-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-lateral-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0178-goJ6ezq.gif"
+ },
+ {
+  "name": "Cable One Arm Lateral Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Stand with your feet shoulder-width apart, facing the cable machine.",
+   "Hold the cable handle with one hand, palm facing down, and stand far enough away from the machine so that there is tension on the cable.",
+   "Keep your arm straight and slowly raise it out to the side until it is parallel to the ground.",
+   "Pause for a moment at the top, then slowly lower your arm back down to the starting position.",
+   "Repeat for the desired number of repetitions, then switch sides."
+  ],
+  "fileName": "cable-one-arm-lateral-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-one-arm-lateral-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0192-wEulIzp.gif"
+ },
+ {
+  "name": "Cable Rear Delt Row (Stirrups)",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Attach a stirrup handle to a low cable pulley and stand facing the machine.",
+   "Grasp the handle with your left hand and take a step back with your right foot, positioning your body at a slight angle.",
+   "Bend your knees slightly and hinge forward at the hips, keeping your back straight and your core engaged.",
+   "With your left arm extended and your palm facing down, pull the handle towards your chest by retracting your shoulder blade.",
+   "Pause for a moment at the top of the movement, squeezing your shoulder blade.",
+   "Slowly release the handle back to the starting position and repeat for the desired number of repetitions.",
+   "Switch sides and repeat the exercise with your right arm."
+  ],
+  "fileName": "cable-rear-delt-row-stirrups.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-rear-delt-row-stirrups.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0202-yUdIGNs.gif"
+ },
+ {
+  "name": "Cable Rear Delt Row (With Rope)",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Attach a rope handle to a low pulley cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart.",
+   "Grasp the rope handle with an overhand grip, palms facing each other.",
+   "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+   "Keep your elbows slightly bent and pull the rope towards your chest, squeezing your shoulder blades together.",
+   "Pause for a moment at the top of the movement, then slowly release the tension and return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-rear-delt-row-with-rope.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-rear-delt-row-with-rope.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0203-wqNPGCg.gif"
+ },
+ {
+  "name": "Cable Seated Rear Lateral Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Sit on a bench facing the cable machine with your feet flat on the ground.",
+   "Grasp the cable handles with an overhand grip and extend your arms straight in front of you.",
+   "Keeping your arms straight, slowly raise them out to the sides until they are parallel to the floor.",
+   "Pause for a moment at the top, then slowly lower your arms back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-seated-rear-lateral-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-seated-rear-lateral-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0215-x825CZm.gif"
+ },
+ {
+  "name": "Cable Shoulder Press",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the cable machine so that the handles are at shoulder height.",
+   "Stand facing away from the machine with your feet shoulder-width apart.",
+   "Grasp the handles with an overhand grip and bring them up to shoulder level, with your elbows bent and pointing outwards.",
+   "Press the handles upwards until your arms are fully extended overhead.",
+   "Pause for a moment at the top, then slowly lower the handles back down to shoulder level.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-shoulder-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-shoulder-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0219-PzQanLE.gif"
+ },
+ {
+  "name": "Cable Standing Cross-Over High Reverse Fly",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Attach a D-handle to each side of a cable machine at shoulder height.",
+   "Stand in the middle of the cable machine with your feet shoulder-width apart.",
+   "Grasp the handles with an overhand grip and extend your arms out to the sides, palms facing forward.",
+   "Keep a slight bend in your elbows and maintain a straight back throughout the exercise.",
+   "Engage your shoulder muscles and squeeze your shoulder blades together as you pull the handles towards the front of your body.",
+   "Pause for a moment at the peak of the movement, then slowly return to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-standing-cross-over-high-reverse-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-standing-cross-over-high-reverse-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0225-P5p0j8B.gif"
+ },
+ {
+  "name": "Cable Standing Rear Delt Row (With Rope)",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Stand facing a cable machine with your feet shoulder-width apart.",
+   "Hold the cable attachment with both hands, palms facing each other, and step back to create tension in the cable.",
+   "Keep your back straight and your core engaged.",
+   "Pull the cable towards your body, squeezing your shoulder blades together.",
+   "Pause for a moment at the peak of the movement, then slowly release the cable back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-standing-rear-delt-row-with-rope.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-standing-rear-delt-row-with-rope.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0233-ZfyAGhK.gif"
+ },
+ {
+  "name": "Cable Supine Reverse Fly",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Attach a D-handle to a low pulley cable machine and lie face down on a flat bench.",
+   "Grasp the D-handle with each hand, palms facing down, and extend your arms straight out in front of you.",
+   "Keeping your arms straight, raise them out to the sides until they are parallel to the floor.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-supine-reverse-fly.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-supine-reverse-fly.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0240-PQcUlDi.gif"
+ },
+ {
+  "name": "Cable Upright Row",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "cable",
+  "steps": [
+   "Stand with your feet shoulder-width apart, knees slightly bent, and hold the cable attachment with an overhand grip.",
+   "Keep your back straight and your core engaged throughout the exercise.",
+   "Pull the cable attachment straight up towards your chin, leading with your elbows.",
+   "Pause for a moment at the top, squeezing your shoulder blades together.",
+   "Slowly lower the cable attachment back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-upright-row.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-upright-row.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0246-cALKspW.gif"
+ },
+ {
+  "name": "Dumbbell Arnold Press V. 2",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Sit on a bench with back support and hold a dumbbell in each hand at shoulder level, palms facing your body and elbows bent.",
+   "Press the dumbbells upward until your arms are fully extended and your palms are facing forward.",
+   "Rotate your wrists as you lift, so that your palms end up facing forward at the top of the movement.",
+   "Pause for a moment at the top, then slowly lower the dumbbells back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-arnold-press-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-arnold-press-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0287-eOrFCnx.gif"
+ },
+ {
+  "name": "Dumbbell Front Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+   "Keeping your arms straight, exhale and lift the dumbbells in front of you until they are at shoulder level.",
+   "Pause for a moment at the top, then inhale and slowly lower the dumbbells back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-front-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-front-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0310-3eGE2JC.gif"
+ },
+ {
+  "name": "Dumbbell Front Raise V. 2",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your thighs.",
+   "Keep your back straight and engage your core.",
+   "Slowly lift the dumbbells in front of you, with your arms straight, until they are at shoulder level.",
+   "Pause for a moment at the top, then slowly lower the dumbbells back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-front-raise-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-front-raise-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0309-Rr7S3yg.gif"
+ },
+ {
+  "name": "Dumbbell Full Can Lateral Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your body.",
+   "Keep your back straight and engage your core.",
+   "Raise your arms out to the sides, keeping a slight bend in your elbows, until they are parallel to the ground.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-full-can-lateral-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-full-can-lateral-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0311-AQ0mC4Y.gif"
+ },
+ {
+  "name": "Dumbbell Incline One Arm Lateral Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Sit on an incline bench with a dumbbell in one hand, resting it on your thigh.",
+   "Lean forward and position your upper arm against the inside of your thigh.",
+   "Raise the dumbbell to the side, keeping your arm slightly bent and your palm facing down.",
+   "Continue lifting until your arm is parallel to the floor.",
+   "Pause for a moment at the top, then slowly lower the dumbbell back to the starting position.",
+   "Repeat for the desired number of repetitions, then switch to the other arm."
+  ],
+  "fileName": "dumbbell-incline-one-arm-lateral-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-incline-one-arm-lateral-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0323-aTNKZiC.gif"
+ },
+ {
+  "name": "Dumbbell Incline Rear Lateral Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Set up an incline bench at a 45-degree angle.",
+   "Sit on the bench with your chest against the backrest and hold a dumbbell in each hand.",
+   "Extend your arms straight down with your palms facing each other.",
+   "Keeping a slight bend in your elbows, raise your arms out to the sides until they are parallel to the ground.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-incline-rear-lateral-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-incline-rear-lateral-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0326-vYk8lqw.gif"
+ },
+ {
+  "name": "Dumbbell Lateral Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a dumbbell in each hand, palms facing your body.",
+   "Keep your back straight and engage your core.",
+   "Raise your arms out to the sides until they are parallel to the floor, keeping a slight bend in your elbows.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-lateral-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-lateral-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0334-DsgkuIt.gif"
+ },
+ {
+  "name": "Dumbbell Lateral To Front Raise",
+  "group": "shoulders",
+  "targetMuscle": "delts",
+  "equipment": "dumbbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart, holding a dumbbell in each hand with your palms facing your body.",
+   "Keep your back straight and engage your core.",
+   "Raise your arms out to the sides until they are parallel to the ground, keeping a slight bend in your elbows.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Next, raise your arms in front of you until they are parallel to the ground, again keeping a slight bend in your elbows.",
+   "Pause for a moment at the top, then slowly lower your arms back down to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "dumbbell-lateral-to-front-raise.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/dumbbell-lateral-to-front-raise.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0335-xMjBKwn.gif"
+ },
+ {
+  "name": "Barbell Close-Grip Bench Press",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+   "Grasp the barbell with a close grip, slightly narrower than shoulder-width apart.",
+   "Unrack the barbell and lower it slowly towards your chest, keeping your elbows close to your body.",
+   "Pause for a moment when the barbell touches your chest.",
+   "Push the barbell back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-close-grip-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-close-grip-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0030-J6Dx1Mu.gif"
+ },
+ {
+  "name": "Barbell Jm Bench Press",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your back pressed against the bench.",
+   "Grasp the barbell with an overhand grip, slightly wider than shoulder-width apart.",
+   "Lower the barbell to your chest, keeping your elbows tucked in close to your body.",
+   "Push the barbell back up to the starting position, fully extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-jm-bench-press.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-jm-bench-press.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0052-ZsiqXYa.gif"
+ },
+ {
+  "name": "Barbell Lying Close-Grip Triceps Extension",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.",
+   "Grasp the barbell with a close grip, hands shoulder-width apart, palms facing up.",
+   "Extend your arms fully, lifting the barbell above your chest.",
+   "Keeping your upper arms stationary, slowly lower the barbell towards your forehead by bending your elbows.",
+   "Pause for a moment at the bottom, then extend your arms back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-lying-close-grip-triceps-extension.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-lying-close-grip-triceps-extension.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0056-HJ63mSO.gif"
+ },
+ {
+  "name": "Barbell Lying Triceps Extension",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.",
+   "Hold the barbell with an overhand grip, hands shoulder-width apart, and extend your arms straight up over your chest.",
+   "Keeping your upper arms stationary, slowly lower the barbell towards your forehead by bending your elbows.",
+   "Pause for a moment at the bottom, then extend your arms back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-lying-triceps-extension.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-lying-triceps-extension.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0061-iZop9xO.gif"
+ },
+ {
+  "name": "Barbell Lying Triceps Extension Skull Crusher",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "barbell",
+  "steps": [
+   "Lie flat on a bench with your feet flat on the ground and your head at the end of the bench.",
+   "Hold the barbell with an overhand grip, hands shoulder-width apart, and extend your arms straight up over your chest.",
+   "Keeping your upper arms stationary, slowly lower the barbell towards your forehead by bending your elbows.",
+   "Pause for a moment when the barbell is just above your forehead, then extend your arms back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-lying-triceps-extension-skull-crusher.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-lying-triceps-extension-skull-crusher.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0060-h8LFzo9.gif"
+ },
+ {
+  "name": "Barbell Seated Overhead Triceps Extension",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "barbell",
+  "steps": [
+   "Sit on a bench with your back straight and feet flat on the ground.",
+   "Hold a barbell with an overhand grip, hands shoulder-width apart, and raise it overhead.",
+   "Lower the barbell behind your head by bending your elbows, keeping your upper arms close to your head.",
+   "Pause for a moment, then extend your arms to raise the barbell back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-seated-overhead-triceps-extension.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-seated-overhead-triceps-extension.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0092-5uFK1xr.gif"
+ },
+ {
+  "name": "Barbell Standing Overhead Triceps Extension",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "barbell",
+  "steps": [
+   "Stand with your feet shoulder-width apart and hold a barbell with an overhand grip.",
+   "Raise the barbell overhead, fully extending your arms.",
+   "Keeping your upper arms close to your head, slowly lower the barbell behind your head by bending your elbows.",
+   "Pause for a moment, then raise the barbell back to the starting position by extending your arms.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "barbell-standing-overhead-triceps-extension.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/barbell-standing-overhead-triceps-extension.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0109-dZl9Q27.gif"
+ },
+ {
+  "name": "Cable Alternate Triceps Extension",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Stand facing the cable machine with your feet shoulder-width apart.",
+   "Hold the cable handle with your right hand and bring your arm up so that your upper arm is parallel to the ground and your elbow is bent at a 90-degree angle.",
+   "Keep your upper arm stationary and extend your forearm backward, fully straightening your arm.",
+   "Pause for a moment, then slowly return to the starting position.",
+   "Repeat with your left arm.",
+   "Continue alternating arms for the desired number of repetitions."
+  ],
+  "fileName": "cable-alternate-triceps-extension.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-alternate-triceps-extension.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0149-Gchi5Tr.gif"
+ },
+ {
+  "name": "Cable Incline Triceps Extension",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Adjust the cable machine to a low pulley position.",
+   "Attach a straight bar to the cable.",
+   "Stand facing away from the machine with your feet shoulder-width apart.",
+   "Grasp the bar with an overhand grip and extend your arms straight overhead.",
+   "Lean forward slightly, keeping your back straight and core engaged.",
+   "Bend your elbows and lower the bar behind your head, keeping your upper arms close to your ears.",
+   "Pause for a moment, then extend your arms back to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-incline-triceps-extension.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-incline-triceps-extension.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0173-Hx1WC8I.gif"
+ },
+ {
+  "name": "Cable Kneeling Triceps Extension",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a rope handle to a high pulley and kneel down facing the cable machine.",
+   "Grasp the rope with a neutral grip (palms facing each other) and bring your hands to the sides of your head.",
+   "Keep your elbows close to your head and your upper arms stationary throughout the exercise.",
+   "Extend your forearms by contracting your triceps until your arms are fully extended.",
+   "Pause for a moment, then slowly return to the starting position by bending your elbows.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-kneeling-triceps-extension.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-kneeling-triceps-extension.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0176-KWdF2JI.gif"
+ },
+ {
+  "name": "Cable Lying Triceps Extension V. 2",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a rope handle to a low pulley cable machine.",
+   "Lie down on a flat bench facing up, with your head towards the cable machine.",
+   "Grasp the rope handle with both hands, palms facing each other, and extend your arms straight up over your chest.",
+   "Keeping your upper arms stationary, slowly lower the rope handle towards your forehead by bending your elbows.",
+   "Pause for a moment at the bottom, then extend your arms back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-lying-triceps-extension-v-2.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-lying-triceps-extension-v-2.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0186-uxJcFUU.gif"
+ },
+ {
+  "name": "Cable Overhead Triceps Extension (Rope Attachment)",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a rope to a cable machine at a high position.",
+   "Stand facing away from the machine with your feet shoulder-width apart.",
+   "Grasp the rope with both hands, palms facing each other, and bring your hands above your head.",
+   "Keep your upper arms close to your head and your elbows pointing forward.",
+   "Slowly lower the rope behind your head by bending your elbows.",
+   "Pause for a moment, then extend your arms back up to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-overhead-triceps-extension-rope-attachment.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-overhead-triceps-extension-rope-attachment.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0194-2IxROQ1.gif"
+ },
+ {
+  "name": "Cable Pushdown",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a straight bar to a high pulley cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.",
+   "Grasp the bar with an overhand grip, hands shoulder-width apart.",
+   "Keep your elbows close to your sides and your upper arms stationary.",
+   "Exhale and push the bar down until your elbows are fully extended.",
+   "Pause for a moment, then inhale and slowly return the bar to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-pushdown.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-pushdown.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0201-3ZflifB.gif"
+ },
+ {
+  "name": "Cable Pushdown (With Rope Attachment)",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a rope attachment to a high pulley on a cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart and a slight bend in your knees.",
+   "Grasp the rope with an overhand grip, palms facing each other.",
+   "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+   "Exhale and push the rope downward by extending your elbows until your arms are fully extended.",
+   "Pause for a moment, then inhale and slowly return to the starting position by allowing your elbows to flex.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-pushdown-with-rope-attachment.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-pushdown-with-rope-attachment.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0200-dU605di.gif"
+ },
+ {
+  "name": "Cable Reverse-Grip Pushdown",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a straight bar to a high pulley cable machine.",
+   "Stand facing the machine with your feet shoulder-width apart.",
+   "Grasp the bar with an underhand grip, palms facing up, and your hands shoulder-width apart.",
+   "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+   "Using your triceps, push the bar down until your arms are fully extended and your triceps are contracted.",
+   "Pause for a moment, then slowly return the bar to the starting position.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-reverse-grip-pushdown.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-reverse-grip-pushdown.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0207-VjYliFZ.gif"
+ },
+ {
+  "name": "Cable Triceps Pushdown (V-Bar)",
+  "group": "triceps",
+  "targetMuscle": "triceps",
+  "equipment": "cable",
+  "steps": [
+   "Attach a v-bar attachment to the cable machine at the highest setting.",
+   "Stand facing the cable machine with your feet shoulder-width apart.",
+   "Grasp the v-bar with an overhand grip, palms facing down, and your hands shoulder-width apart.",
+   "Keep your elbows close to your sides and your upper arms stationary throughout the exercise.",
+   "Engage your triceps and exhale as you push the v-bar down until your arms are fully extended.",
+   "Pause for a moment at the bottom of the movement, squeezing your triceps.",
+   "Inhale as you slowly return the v-bar to the starting position, maintaining control.",
+   "Repeat for the desired number of repetitions."
+  ],
+  "fileName": "cable-triceps-pushdown-v-bar.mp4",
+  "videoUrl": "https://cdn.jsdelivr.net/gh/Pravinkumar0908/exercise-videos@main/cable-triceps-pushdown-v-bar.mp4",
+  "gifUrl": "https://raw.githubusercontent.com/hasaneyldrm/exercises-dataset/main/videos/0241-gAwDzB3.gif"
+ }
+]
